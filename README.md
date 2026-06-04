@@ -222,4 +222,4 @@ Para reportar bugs o sugerencias, contacta al desarrollador.
 ---
 
 **Versión**: 1.0.0  
-**Última actualización**: 2024
+**Última actualización**: 2026
